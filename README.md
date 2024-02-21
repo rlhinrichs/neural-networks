@@ -1,7 +1,11 @@
 # neural-networks
-Part A is a multiclassification project analyzing biometric data in a time series and predicts human activity using hybrid neural network model construction. <br>
-Part B is a binary classification project predicting positivity/negativity of yelp reviews based on language content.<br>
+<p></p>
+Part A is a multiclassification project analyzing biometric data in a time series and predicts human activity using hybrid neural network model construction.
+<p></p>
+Part B is a binary classification project predicting positivity/negativity of yelp reviews based on language content.
+<p></p>
 Both projects require vectorizing the data into numerical representation using NumPy.<br>
+<p></p>
 <center><line></line></center>
 <p></p>
 <center><h1><b>Part A</b></h1></center>
@@ -31,6 +35,8 @@ We collected the files according to their provided pre-divided train and test da
 - a bidirectional LSTM Model<br>
 Using early stopping criterion, we will save and report the accuracies of the best model.<br>
 <p></p>
+<center><line></line></center>
+<p></p>
 <center><h1><b>Part B</b></h1></center>
 <p></p>
 <h3>Purpose:</h3> The purpose of this section is to test concepts of hyperparameter optimization.
@@ -46,3 +52,6 @@ a vocabulary of 400k words in 100 dimensions.
 <p></p>
 <h3>Approach:</h3> We will perform hyperparameter optimization using Python’s HyperOpt library on a
 dual-layer LSTM Model, optimizing at least 2 tuning parameters.
+<p></p>
+<center><line></line></center>
+<p></p>
