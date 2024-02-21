@@ -1,2 +1,4 @@
 # neural-networks
-Part I analyzes biometric data in a time series. Part II predicts positivity/negativity of yelp reviews based on language content. The program implements solo and combination neural network model types and analyzes their predictive performances.
+Part I is a multiclassification project analyzing biometric data in a time series and predicts human activity using hybrid neural network model construction. 
+Part II is a binary classification project predicting positivity/negativity of yelp reviews based on language content.
+Both projects require vectorizing the data into numerical representation using NumPy.
