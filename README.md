@@ -41,7 +41,7 @@ Using early stopping criterion, we will save and report the accuracies of the be
 <p></p>
 <h3>Purpose:</h3> The purpose of this section is to test concepts of hyperparameter optimization.
 <p></p>
-<h3>Purpose:</h3> We were provided with a folder yelp_review_polarity_csv, consisting of files
+<h3>Data:</h3> We were provided with a folder yelp_review_polarity_csv, consisting of files
 train_small.csv and test_small.csv containing pre-split training/testing groups of data. First
 column is class label (“1” and “2” in this example), second column is text. Note that entries are
 within double quotes (“). These files will be loaded using python package ‘pandas’ and stored in
