@@ -4,7 +4,7 @@ Part A is a multiclassification project analyzing biometric data in a time serie
 <p></p>
 Part B is a binary classification project predicting positivity/negativity of yelp reviews based on language content.
 <p></p>
-Both projects require vectorizing the data into numerical representation using NumPy.<br>
+Output file can be viewed <a href="https://www.dropbox.com/scl/fi/cogcngc7udpo6ugxe2gw9/neural-networks.html?rlkey=17na23lj8d8iee8xf7h4401k5&dl=0">here</a>.<br>
 <p></p>
 <center><line></line></center>
 <p></p>
