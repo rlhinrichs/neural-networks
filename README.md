@@ -1,4 +1,7 @@
 # neural-networks
+📊 Time-Series Forecasting for Wearable Device Sensors
+<p></p>
+This two-part project explores the benefits of building LSTM neural network models with optimization techniques.
 <p></p>
 Part A is a multiclassification project analyzing biometric data in a time series and predicts human activity using hybrid neural network model construction.
 <p></p>
