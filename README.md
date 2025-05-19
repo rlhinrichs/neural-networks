@@ -29,10 +29,10 @@ We collected the files according to their provided pre-divided train and test da
 - 'train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second.
 
 **Approach:** We will build & train four (4) hybrid-architecture models:
-- a single-layer LSTM Model
-- a dual-layer LSTM Model
-- a combination CNN-LSTM Model, and
-- a bidirectional LSTM Model
+- a single-layer LSTM Model  
+- a dual-layer LSTM Model  
+- a combination CNN-LSTM Model, and  
+- a bidirectional LSTM Model  
 Using early stopping criterion, we will save and report the accuracies of the best model.
 
 **Results:**  
@@ -65,16 +65,16 @@ a vocabulary of 400k words in 100 dimensions.
 **Approach:** We will perform hyperparameter optimization using Python’s HyperOpt library on a
 dual-layer LSTM Model, optimizing at least 2 tuning parameters.
 
-**Results**: Our best model has an accuracy of 85.75% and a loss of 30.70%. Its max_eval = 10 and its parameters are:
-• ‘activation_function’: [‘tanh’]
-• ‘batch_size’: [112.0]
-• ‘dropout’: [0.3274283406727577]
-• ‘epochs’: [54.0]
-• ‘kernel_size’: [3.0]
-• ‘learning_rate’: [0.013220910276634638]
-• ‘num_kernel’: [80.0]
-• ‘optimizer’: [‘adam’]
-• ‘patience’: [4.0]
-• ‘size_pooling’: [2.0]
-• ‘strides’: [2.0]}
+**Results**: Our best model has an accuracy of 85.75% and a loss of 30.70%. Its max_eval = 10 and its parameters are:  
+• ‘activation_function’: [‘tanh’]  
+• ‘batch_size’: [112.0]  
+• ‘dropout’: [0.3274283406727577]  
+• ‘epochs’: [54.0]  
+• ‘kernel_size’: [3.0]  
+• ‘learning_rate’: [0.013220910276634638]  
+• ‘num_kernel’: [80.0]  
+• ‘optimizer’: [‘adam’]  
+• ‘patience’: [4.0]  
+• ‘size_pooling’: [2.0]  
+• ‘strides’: [2.0]}  
 
