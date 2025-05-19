@@ -47,9 +47,9 @@ The tie-breaker could be determined by analyzing distinguishing characteristics 
 ---  
 ---  
 
-## ⭐ Social Media Sentiment Analysis / NLP + Hyperparameter Optimization
+## ⭐ Social Media Sentiment Analysis / NLP + Hyperparameter Optimization / Text-Based Data
 - social-media.ipynb
-- data: yelp_review_polarity_csv.zip
+- data/yelp_review_polarity_csv.zip
 - use the link in the .ipynb file to download 'glove.6B' for NLP tokenization
 
 **Purpose:** The purpose of this section is to test concepts of hyperparameter optimization.  
