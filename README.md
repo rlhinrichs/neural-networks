@@ -84,4 +84,8 @@ Tuned parameters included:
 ```
 
 **Reflection:**
-This project helped me understand the importance of tuning even minor parameters and how these changes affect convergence and generalization. Future directions include using attention layers or experimenting with transformer-based architectures.
+This project helped me understand the importance of tuning even minor parameters and how these changes affect convergence and generalization. Future directions include using attention layers or experimenting with transformer-based architectures.  
+
+---  
+
+© Rebecca Leigh Hinrichs. All Rights Reserved.
